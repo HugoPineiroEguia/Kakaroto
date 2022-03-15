@@ -4,5 +4,7 @@ public class Mainclass {
         System.out.println("Gohan se nos unio a la PARY");
         System.out.println("NOOOOOOOOOOOOOOOOOOOOOOOOO");
         System.out.println("Impresionante");
+        System.out.println("Gohan");
+        System.out.println("Ya valio madres");
     }
 }
