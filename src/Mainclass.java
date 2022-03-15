@@ -9,5 +9,7 @@ public class Mainclass {
         System.out.println("Ya valio madres");
         System.out.println("Invaliddez de tejado");
         System.out.println("LOCOLCOCLOCLO");
+        System.out.println("Gohan");
+        System.out.println("Ya valio madres");
     }
 }
